@@ -1,0 +1,12 @@
+url: http://cpf.arturhgq.com
+template:
+  bootstrap: 5
+  bslib:
+    primary: "#004080"
+    bg: "#f8f9f9"
+    fg: "#001a33"
+    code-bg: "#d6dcdc"
+    border-radius: 0.5rem
+    btn-border-radius: 0.25rem
+    code_font: {google: "Fira Code"}
+

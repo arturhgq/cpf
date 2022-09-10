@@ -1,0 +1,19 @@
+utils::globalVariables(
+  c(
+    ":=",
+    "cpf_split",
+    "cpf_",
+    "cpf_9digits",
+    "cpf_prod",
+    "cpf_sum",
+    "cpf_10digits",
+    "cpf_digits_algorithm",
+    "cpf_id",
+    "cpf_length",
+    "cpf_unique",
+    "check_digit1",
+    "check_digit2",
+    "cpf_digits_var",
+    "cpf_check"
+  )
+)
