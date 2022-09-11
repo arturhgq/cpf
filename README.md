@@ -14,12 +14,12 @@ status](https://www.r-pkg.org/badges/version/CPF)](https://CRAN.R-project.org/pa
 coverage](https://codecov.io/gh/arturhgq/CPF/branch/master/graph/badge.svg)](https://app.codecov.io/gh/arturhgq/CPF?branch=master)
 <!-- badges: end -->
 
-The goal of CPF is to provide useful tools for CPF cleaning and
+The goal of cpf is to provide useful tools for cpfs cleaning and
 validation.
 
 ## Installation
 
-You can install the development version of CPF like so:
+You can install the development version of cpf like so:
 
 ``` r
 remotes::install_github("arturhgq/CPF")
