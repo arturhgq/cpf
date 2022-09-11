@@ -2,7 +2,7 @@
 % Please edit documentation in R/cpf.R
 \name{validate_cpf}
 \alias{validate_cpf}
-\title{Validate CPF}
+\title{Validate cpf}
 \usage{
 validate_cpf(.data, .cpf, .fix_cpf = TRUE, .clear_steps = TRUE)
 }
@@ -13,12 +13,12 @@ validate_cpf(.data, .cpf, .fix_cpf = TRUE, .clear_steps = TRUE)
 
 \item{.fix_cpf}{\code{\link[=fix_cpf]{fix_cpf()}}}
 
-\item{.clear_steps}{delete the variables used to validate cpf}
+\item{.clear_steps}{delete the variables used to validate cpfs}
 }
 \description{
 \ifelse{html}{\href{https://lifecycle.r-lib.org/articles/stages.html#experimental}{\figure{lifecycle-experimental.svg}{options: alt='[Experimental]'}}}{\strong{[Experimental]}}
 
-This function validates CPF by calculating of the check digits
+This function validates cpfs by calculating of the check digits
 }
 \examples{
 

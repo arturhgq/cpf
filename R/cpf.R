@@ -1,8 +1,8 @@
-#' @title Add leading zeros in cpf
+#' @title Add leading zeros in cpfs
 #' @description `r lifecycle::badge("experimental")`
 #'
-#' This function adds leading zeros in cpf
-#' @param .cpf cpf
+#' This function adds leading zeros in cpfs
+#' @param .cpf cpfs
 #' @examples
 #' add_digits("22344533")
 #' @export
@@ -59,14 +59,14 @@ fix_cpf <- \(.cpf) {
       replacement = "\\1.\\2.\\3-\\4")
 }
 
-#' @title Validate CPF
+#' @title Validate cpf
 #' @description `r lifecycle::badge("experimental")`
 #'
-#' This function validates CPF by calculating of the check digits
+#' This function validates cpfs by calculating of the check digits
 #'
 #' @param .data data frame
 #' @param .cpf cpf variable
-#' @param .clear_steps delete the variables used to validate cpf
+#' @param .clear_steps delete the variables used to validate cpfs
 #' @param .fix_cpf [fix_cpf()]
 #' @examples
 #'

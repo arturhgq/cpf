@@ -2,17 +2,17 @@
 % Please edit documentation in R/cpf.R
 \name{add_digits}
 \alias{add_digits}
-\title{Add leading zeros in cpf}
+\title{Add leading zeros in cpfs}
 \usage{
 add_digits(.cpf)
 }
 \arguments{
-\item{.cpf}{cpf}
+\item{.cpf}{cpfs}
 }
 \description{
 \ifelse{html}{\href{https://lifecycle.r-lib.org/articles/stages.html#experimental}{\figure{lifecycle-experimental.svg}{options: alt='[Experimental]'}}}{\strong{[Experimental]}}
 
-This function adds leading zeros in cpf
+This function adds leading zeros in cpfs
 }
 \examples{
 add_digits("22344533")
