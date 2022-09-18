@@ -42,7 +42,7 @@ add_digits <- \(.cpf){
 #' @description `r lifecycle::badge("stable")`
 #'
 #' This function makes cpf strings consistent across different patterns
-#' @param .cpf CPF string
+#' @param .cpf cpf string
 #' @examples
 #'   fake_cpf <- c(
 #'    "111,232-123.23",
