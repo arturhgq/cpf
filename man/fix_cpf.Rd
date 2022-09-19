@@ -7,7 +7,7 @@
 fix_cpf(.cpf)
 }
 \arguments{
-\item{.cpf}{CPF string}
+\item{.cpf}{cpf string}
 }
 \description{
 \ifelse{html}{\href{https://lifecycle.r-lib.org/articles/stages.html#stable}{\figure{lifecycle-stable.svg}{options: alt='[Stable]'}}}{\strong{[Stable]}}
