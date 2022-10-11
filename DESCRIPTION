@@ -3,7 +3,7 @@ Title: Tools for handling cpf data
 Version: 0.0.1
 Authors@R: 
     person("Artur", "Quirino", , "contact.last@arturhgq.com", role = c("aut", "cre"),
-           comment = c(ORCID = "YOUR-ORCID-ID"))
+           comment = c(ORCID = "0000-0001-8071-6348"))
 Description: This package provides tools for handling cpf data.
 License: MIT + file LICENSE
 Suggests: 

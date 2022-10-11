@@ -17,7 +17,7 @@ Useful links:
 
 }
 \author{
-\strong{Maintainer}: Artur Quirino \email{contact.last@arturhgq.com} (\href{https://orcid.org/YOUR-ORCID-ID}{ORCID})
+\strong{Maintainer}: Artur Quirino \email{contact.last@arturhgq.com} (\href{https://orcid.org/0000-0001-8071-6348}{ORCID})
 
 }
 \keyword{internal}
